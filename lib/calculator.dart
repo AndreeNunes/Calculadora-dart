@@ -2,6 +2,8 @@ import 'package:auto_size_text/auto_size_text.dart';
 import 'package:flutter/material.dart';
 import 'memory.dart';
 
+//André Lindão
+
 class Calculator extends StatefulWidget {
   @override
   _CalculatorState createState() => _CalculatorState();
